@@ -1,0 +1,85 @@
+{
+  "slug": "finance-dashboard",
+  "title": "Finance Dashboard",
+  "category": "frontend",
+  "difficulty": "medium",
+  "period": "2026-Q2",
+  "estimatedCommits": 11,
+  "description": "Income, expense, and finance chart dashboard.",
+  "features": [
+    "Summary cards",
+    "Cashflow chart",
+    "Category charts",
+    "Date filters",
+    "Export",
+    "Responsive layout"
+  ],
+  "commits": [
+    {
+      "number": 1,
+      "type": "chore",
+      "title": "initialize project structure",
+      "commitMessage": "chore: initialize project structure"
+    },
+    {
+      "number": 2,
+      "type": "feat",
+      "title": "add core domain model",
+      "commitMessage": "feat: add core domain model"
+    },
+    {
+      "number": 3,
+      "type": "feat",
+      "title": "configure persistence or state layer",
+      "commitMessage": "feat: configure persistence or state layer"
+    },
+    {
+      "number": 4,
+      "type": "feat",
+      "title": "implement main workflow",
+      "commitMessage": "feat: implement main workflow"
+    },
+    {
+      "number": 5,
+      "type": "feat",
+      "title": "add public interface",
+      "commitMessage": "feat: add public interface"
+    },
+    {
+      "number": 6,
+      "type": "test",
+      "title": "add automated coverage",
+      "commitMessage": "test: add automated coverage"
+    },
+    {
+      "number": 7,
+      "type": "docs",
+      "title": "add installation and usage documentation",
+      "commitMessage": "docs: add installation and usage documentation"
+    },
+    {
+      "number": 8,
+      "type": "ci",
+      "title": "add build and test workflow",
+      "commitMessage": "ci: add build and test workflow"
+    },
+    {
+      "number": 9,
+      "type": "feat",
+      "title": "add validation rules for category charts",
+      "commitMessage": "feat: add validation rules for category charts"
+    },
+    {
+      "number": 10,
+      "type": "feat",
+      "title": "add reporting view for date filters",
+      "commitMessage": "feat: add reporting view for date filters"
+    },
+    {
+      "number": 11,
+      "type": "feat",
+      "title": "add export or integration support for export",
+      "commitMessage": "feat: add export or integration support for export"
+    }
+  ]
+}
