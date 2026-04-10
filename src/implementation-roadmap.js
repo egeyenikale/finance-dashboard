@@ -13,3 +13,8 @@ export const stage3 = {
   "date": "2026-04-08",
   "message": "feat: configure persistence or state layer"
 };
+
+export const stage4 = {
+  "date": "2026-04-10",
+  "message": "feat: implement main workflow"
+};
