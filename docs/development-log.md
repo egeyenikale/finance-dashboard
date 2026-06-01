@@ -40,3 +40,7 @@ feat: add validation rules for category charts
 
 feat: add reporting view for date filters
 
+## 2026-06-01 - Stage 11
+
+feat: add export or integration support for export
+
