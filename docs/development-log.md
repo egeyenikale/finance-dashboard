@@ -36,3 +36,7 @@ ci: add build and test workflow
 
 feat: add validation rules for category charts
 
+## 2026-06-01 - Stage 10
+
+feat: add reporting view for date filters
+
